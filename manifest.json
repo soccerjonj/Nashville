@@ -1,0 +1,10 @@
+{
+    "id": "nashville",
+    "name": "Nashville",
+    "version": "1.0.0",
+    "author": "Jon Caryl, github: @soccerjonj",
+    "Collaborators": "Made with Subway Builder Patcher by Kronifer: ISC License Copyright 2026 Piero Maddaleni and Subway Builder US Demand Data by rslurry",
+
+    "description": "Define the transportation future of Music City and overcome the urban sprawl of the South",
+    "entryPoint": "index.js"
+}
